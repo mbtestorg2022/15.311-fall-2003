@@ -58,11 +58,60 @@ Students will be required to write a 3-5 page analysis of a short case study. Th
 
 _Grading Summary_
 
-| ACTIVITY | PERCENT | KEY DATES |
-| --- | --- | --- |
-| Participation | 30% | &nbsp; |
-| Team Paper | 50% | Due in 15.280 Session 12 (December 9) |
-| Case Write-Up | 20% | Given out Session 10 (October 30), Due Session 12 (December 6) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+PERCENT
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team Paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+{{< tdopen >}}
+Due in 15.280 Session 12 (December 9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Write-Up
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+Given out Session 10 (October 30), Due Session 12 (December 6)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Special Sessions_
 

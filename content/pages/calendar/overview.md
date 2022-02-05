@@ -11,34 +11,379 @@ This calendar summary shows how some of the 15.311 topics are related to topics 
 For a detailed explanation of each 15.311 lecture, see the full [calendar]({{< baseurl >}}/pages/calendar).  
  
 
-| | SES # | DATES | TOPICS |
-| --- | --- | --- |
-| 15.280 class 1 | Sept. 2 | Dashman Case; Communication Strategy and Structure |
-| 15.311 classes 1-2 | Sept. 4 & 5 | Introduction to Organizational Processes  {{< br >}}(Double session, 3 hour class) |
-| 15.280 class 2 | Sept. 9 | Oral Presentations: Structure, Delivery |
-| 15.311 class 3 | Sept. 11 | Kickoff of OP Team Project |
-| 15.311/Career Development Office (optional) | Sept. 12 | Optional Session: Hiring: Theory and Practice |
-| 15.280 class 3 | Sept. 16 | Oral Presentations: Visual Aids; Q&A |
-| 15.311 class 4 | Sept. 18 | Decision-making and Sense-making |
-| 15.311 class 5 | Sept. 23 | Understanding Ethical Violations, OR, Why Do Smart People Do Dumb Things? |
-| 15.311 class 6 | Sept. 25 | Strategic Design Perspective I: Organizational Structure and Processes |
-| 15.311 & 15.280 | Sept. 26 | Team Day |
-| 15.280 class 4 | Sept. 30 | Writing: Persuasion and Document Design |
-| 15.311 class 7 | Oct. 2 | Strategic Design Perspective II: Incentives and Alignment |
-| 15.280 class 5 | Oct. 3 | 15.280/Career Development Office Joint Class: Cover Letter/Resume (Required) |
-| 15.280 class 6 | Oct. 7 | 15.280/Career Development Office Joint Class: Marketing Yourself Effectively (Required) |
-| 15.311 class 8 | Oct. 9 | Political Perspective I: Understanding Power and Authority |
-| 15.280 class 7 | Oct. 14 | Intercultural Communication |
-| 15.311 class 9 | Oct. 16 | Political Perspective II |
-| 15.280 class 8 | Oct. 28 | Writing: Writing Process and Editing; Presenting Data; Interactive Presentation |
-| 15.311 class 10 | Oct. 30 | Cultural Perspective I: Culture as Control |
-| 15.311 class 11 | Oct. 31 | Career Choices |
-| 15.280 class 9 | Nov. 4 | Active and Reflective Listening; Group Presentations |
-| 15.311 class 12 | Nov. 6 | Cultural Perspective II: Culture and Change |
-| 15.311 class 13 | Nov. 13 | Integrating the Perspectives I: Organizational Change |
-| 15.280 class 10 | Nov. 18 | Communication: Media Choice |
-| 15.311 class 14 | Nov. 20 | Integrating the Perspectives II: Leading Change |
-| 15.311 class 15 | Nov. 21 | Introduction to Negotiation and Bargaining |
-| 15.280 class 11 | Dec. 2 | 15.280 Presentations of Team Project |
-| 15.311 class 16 | Dec. 4 | Wrap Up: Management as a Profession |
-| 15.280 class 12 | Dec. 9 | 15.280 Course Wrap-Up
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+DATES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 1
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 2
+{{< tdclose >}}
+{{< tdopen >}}
+Dashman Case; Communication Strategy and Structure
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 classes 1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 4 & 5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Organizational Processes  
+(Double session, 3 hour class)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 2
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 9
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations: Structure, Delivery
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 3
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 11
+{{< tdclose >}}
+{{< tdopen >}}
+Kickoff of OP Team Project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311/Career Development Office (optional)
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 12
+{{< tdclose >}}
+{{< tdopen >}}
+Optional Session: Hiring: Theory and Practice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 3
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 16
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations: Visual Aids; Q&A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 4
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 18
+{{< tdclose >}}
+{{< tdopen >}}
+Decision-making and Sense-making
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 5
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 23
+{{< tdclose >}}
+{{< tdopen >}}
+Understanding Ethical Violations, OR, Why Do Smart People Do Dumb Things?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 6
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 25
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Design Perspective I: Organizational Structure and Processes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 & 15.280
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 26
+{{< tdclose >}}
+{{< tdopen >}}
+Team Day
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 4
+{{< tdclose >}}
+{{< tdopen >}}
+Sept. 30
+{{< tdclose >}}
+{{< tdopen >}}
+Writing: Persuasion and Document Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 7
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 2
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Design Perspective II: Incentives and Alignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 5
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 3
+{{< tdclose >}}
+{{< tdopen >}}
+15.280/Career Development Office Joint Class: Cover Letter/Resume (Required)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 6
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 7
+{{< tdclose >}}
+{{< tdopen >}}
+15.280/Career Development Office Joint Class: Marketing Yourself Effectively (Required)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 8
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 9
+{{< tdclose >}}
+{{< tdopen >}}
+Political Perspective I: Understanding Power and Authority
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 7
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 14
+{{< tdclose >}}
+{{< tdopen >}}
+Intercultural Communication
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 9
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 16
+{{< tdclose >}}
+{{< tdopen >}}
+Political Perspective II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 8
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 28
+{{< tdclose >}}
+{{< tdopen >}}
+Writing: Writing Process and Editing; Presenting Data; Interactive Presentation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 10
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 30
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural Perspective I: Culture as Control
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 11
+{{< tdclose >}}
+{{< tdopen >}}
+Oct. 31
+{{< tdclose >}}
+{{< tdopen >}}
+Career Choices
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 9
+{{< tdclose >}}
+{{< tdopen >}}
+Nov. 4
+{{< tdclose >}}
+{{< tdopen >}}
+Active and Reflective Listening; Group Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 12
+{{< tdclose >}}
+{{< tdopen >}}
+Nov. 6
+{{< tdclose >}}
+{{< tdopen >}}
+Cultural Perspective II: Culture and Change
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 13
+{{< tdclose >}}
+{{< tdopen >}}
+Nov. 13
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating the Perspectives I: Organizational Change
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 10
+{{< tdclose >}}
+{{< tdopen >}}
+Nov. 18
+{{< tdclose >}}
+{{< tdopen >}}
+Communication: Media Choice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 14
+{{< tdclose >}}
+{{< tdopen >}}
+Nov. 20
+{{< tdclose >}}
+{{< tdopen >}}
+Integrating the Perspectives II: Leading Change
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 15
+{{< tdclose >}}
+{{< tdopen >}}
+Nov. 21
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Negotiation and Bargaining
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 11
+{{< tdclose >}}
+{{< tdopen >}}
+Dec. 2
+{{< tdclose >}}
+{{< tdopen >}}
+15.280 Presentations of Team Project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.311 class 16
+{{< tdclose >}}
+{{< tdopen >}}
+Dec. 4
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap Up: Management as a Profession
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15.280 class 12
+{{< tdclose >}}
+{{< tdopen >}}
+Dec. 9
+{{< tdclose >}}
+{{< tdopen >}}
+15.280 Course Wrap-Up
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
